@@ -1,0 +1,9 @@
+.one {
+	font-family: 'Shadows Into Light', cursive;
+	height: 100px;
+	width:100px;
+	background-color: tomato;
+	margin: 0 auto;
+	text-align: center;
+	color: white;	
+}
